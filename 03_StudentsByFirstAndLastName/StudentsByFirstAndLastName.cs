@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/*
+ * Print all students whose first name is before their last name alphabetically. Use a LINQ query.
+ */
 
 class StudentsByFirstAndLastName
 {
